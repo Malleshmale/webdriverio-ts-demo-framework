@@ -53,5 +53,11 @@ class LoginPage extends Page {
     /**
      * overwrite specific options to adapt it to page object
      */
+/**
+     * overwrite specific options to adapt it to page object
+     */
+    /**
+     * overwrite specific options to adapt it to page object
+     */
 
 export default new LoginPage();

@@ -20,6 +20,9 @@ class LoginPage extends Page {
     public get btnSubmit(): ChainablePromiseElement<Promise<WebdriverIO.Element>> {
         return $('button[type="submit"]');
     }
+    // public get btnSubmit(): ChainablePromiseElement<Promise<WebdriverIO.Element>> {
+    //     return $('button[type="submit"]');
+    // }
 
     /**
      * a method to encapsule automation code to interact with the page
@@ -38,5 +41,9 @@ class LoginPage extends Page {
         return super.open('login');
     }
 }
+ /**
+     * overwrite specific options to adapt it to page object
+     */
+
 
 export default new LoginPage();

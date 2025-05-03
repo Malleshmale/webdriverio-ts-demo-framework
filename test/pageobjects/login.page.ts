@@ -38,5 +38,9 @@ class LoginPage extends Page {
         return super.open('login');
     }
 }
+ /**
+     * a method to encapsule automation code to interact with the page
+     * e.g. to login using username and password
+     */
 
 export default new LoginPage();

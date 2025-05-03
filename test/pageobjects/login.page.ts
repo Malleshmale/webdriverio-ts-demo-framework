@@ -41,17 +41,47 @@ class LoginPage extends Page {
         return super.open('login');
     }
 }
-    /**
-     * overwrite specific options to adapt it to page object
-     */
-    /**
-     * overwrite specific options to adapt it to page object
-     */
 /**
      * overwrite specific options to adapt it to page object
      */
     /**
      * overwrite specific options to adapt it to page object
+     *//**
+     * overwrite specific options to adapt it to page object
      */
+    /**
+     * overwrite specific options to adapt it to page object
+     *//**
+     * overwrite specific options to adapt it to page object
+     */
+    /**
+     * overwrite specific options to adapt it to page object
+     *//**
+     * overwrite specific options to adapt it to page object
+     */
+    /**
+     * overwrite specific options to adapt it to page object
+     *//**
+     * overwrite specific options to adapt it to page object
+     */
+    /**
+     * overwrite specific options to adapt it to page object
+     *//**
+     * overwrite specific options to adapt it to page object
+     */
+    /**
+     * overwrite specific options to adapt it to page object
+     *//**
+     * overwrite specific options to adapt it to page object
+     */
+    /**
+     * overwrite specific options to adapt it to page object
+     *//**
+     * overwrite specific options to adapt it to page object
+     */
+    /**
+     * overwrite specific options to adapt it to page object
+     */
+    
 
 export default new LoginPage();

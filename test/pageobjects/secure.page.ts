@@ -11,5 +11,6 @@ class SecurePage extends Page {
         return $('#flash');
     }
 }
+//hi
 
 export default new SecurePage();

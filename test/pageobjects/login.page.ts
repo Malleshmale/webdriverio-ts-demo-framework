@@ -41,47 +41,10 @@ class LoginPage extends Page {
         return super.open('login');
     }
 }
-/**
-     * overwrite specific options to adapt it to page object
-     */
-    /**
-     * overwrite specific options to adapt it to page object
-     *//**
-     * overwrite specific options to adapt it to page object
-     */
-    /**
-     * overwrite specific options to adapt it to page object
-     *//**
-     * overwrite specific options to adapt it to page object
-     */
-    /**
-     * overwrite specific options to adapt it to page object
-     *//**
-     * overwrite specific options to adapt it to page object
-     */
-    /**
-     * overwrite specific options to adapt it to page object
-     *//**
-     * overwrite specific options to adapt it to page object
-     */
-    /**
-     * overwrite specific options to adapt it to page object
-     *//**
-     * overwrite specific options to adapt it to page object
-     */
-    /**
-     * overwrite specific options to adapt it to page object
-     *//**
-     * overwrite specific options to adapt it to page object
-     */
-    /**
-     * overwrite specific options to adapt it to page object
-     *//**
-     * overwrite specific options to adapt it to page object
-     */
-    /**
-     * overwrite specific options to adapt it to page object
-     */
-    
 
-export default new LoginPage();
+
+public async login (username: string, password: string): Promise<void> {
+    await this.inputUsername.setValue(username);
+    await this.inputPassword.setValue(password);
+    await this.btnSubmit.click();
+}

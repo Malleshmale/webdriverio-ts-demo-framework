@@ -4,5 +4,9 @@ import { ChainablePromiseElement } from 'webdriverio';
     hmgfsdvsd
     sjhcvcbs
 }
-
+{
+    jhgfhfvbmsnsd
+    hmgfsdvsd
+    sjhcvcbs
+}
 export default new SecurePage();

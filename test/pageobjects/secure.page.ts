@@ -4,8 +4,6 @@ import { ChainablePromiseElement } from 'webdriverio';
     hmgfsdvsd
     sjhcvcbs
 }
-
-
 {
     jhgfhfvbmsnsd
     hmgfsdvsd
